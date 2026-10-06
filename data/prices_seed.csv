@@ -1,0 +1,11 @@
+crop,market,state,price,unit,variety,date,source
+tomato,Dawanau Market,Kano,48000,basket,,2026-10-04,"PLACEHOLDER - fake demo numbers, replace"
+tomato,Mile 12 Market,Lagos,55000,basket,,2026-10-03,"PLACEHOLDER - fake demo numbers, replace"
+tomato,Bodija Market,Oyo,52000,basket,,2026-10-02,"PLACEHOLDER - fake demo numbers, replace"
+tomato,Central Market,Kaduna,46000,basket,,2026-10-04,"PLACEHOLDER - fake demo numbers, replace"
+maize,Dawanau Market,Kano,62000,100kg bag,,2026-10-04,"PLACEHOLDER - fake demo numbers, replace"
+maize,Central Market,Kaduna,64000,100kg bag,,2026-10-03,"PLACEHOLDER - fake demo numbers, replace"
+rice,Dawanau Market,Kano,95000,50kg bag,,2026-10-04,"PLACEHOLDER - fake demo numbers, replace"
+beans,Bodija Market,Oyo,135000,100kg bag,,2026-10-04,"PLACEHOLDER - fake demo numbers, replace"
+
+

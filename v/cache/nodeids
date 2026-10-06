@@ -1,0 +1,11 @@
+[
+  "tests/test_farashi.py::test_bad_language_rejected",
+  "tests/test_farashi.py::test_best_market_is_highest_price",
+  "tests/test_farashi.py::test_hausa_question_resolves_crop",
+  "tests/test_farashi.py::test_health",
+  "tests/test_farashi.py::test_interaction_is_logged_and_feedback_works",
+  "tests/test_farashi.py::test_normalize_strips_accents",
+  "tests/test_farashi.py::test_real_mode_parses_llm_json_and_survives_garbage",
+  "tests/test_farashi.py::test_resolve_local_names",
+  "tests/test_farashi.py::test_unknown_crop_asks_to_repeat"
+]

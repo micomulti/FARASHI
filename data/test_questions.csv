@@ -1,0 +1,9 @@
+language,question,expected_crop,expected_intent
+en,Where should I sell my tomatoes this week?,tomato,best_market
+en,What is the price of maize in Kaduna?,maize,price
+ha,Ina zan sayar da tumatir na?,tomato,best_market
+ha,Nawa ne farashin masara?,maize,price
+ha,Ina so in sayar da shinkafa,rice,best_market
+yo,<add a natural Yoruba question about beans - verify with a native speaker>,beans,best_market
+ig,<add a natural Igbo question about yam - verify with a native speaker>,yam,best_market
+en,What is the weather tomorrow?,,unclear
